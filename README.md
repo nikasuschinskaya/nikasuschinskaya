@@ -17,8 +17,11 @@
 
 ![nikasuschinskaya's GitHub Stats][github-stats-img]
 
-## Technology Stack
+## Tools
 
+<a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/> </a> <a href="https://github.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> 
+
+## Technology Stack
 
 
 [github-stats-img]: https://cheesits456-readme-stats.vercel.app/api?username=nikasuschinskaya&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark
