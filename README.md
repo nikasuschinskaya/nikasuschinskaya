@@ -1,9 +1,14 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 ## About Me
-I'm Veronika. I program in C#, but to broaden my horizons, I tried other programming languages, such as C, C++, Java, Python. 
-But C# has remained a favorite programming language. My dream is to find people who share my interests and develop with them further in the direction of .NET. 
-Find me on telegram or write to my gmail.
+<p align="justify">I'm Veronika. </p>
+
+<p align="justify">I program in C#, but to broaden my horizons, I tried other programming languages, such as C, C++, Java, Python. 
+But C# has remained a favorite programming language. </p>
+
+<p align="justify">My dream is to find people who share my interests and develop with them further in the direction of .NET. </p>
+
+<p align="justify">Find me on telegram or write to my gmail. </p>
 
 <div align="center">
   </a>
