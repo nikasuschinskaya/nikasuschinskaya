@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ## My Skills
-<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=nikasuschinskaya&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="nikasuschinskaya's Top Languages" align="right" width="295">
 
-### My Github Stats
-![Veronika's Github stats](https://github-readme-stats.vercel.app/api?username=nikasuschinskaya&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+<img src="https://nikasuschinskaya-readme-stats.vercel.app/api/top-langs?username=nikasuschinskaya&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="nikasuschinskaya's Top Languages" align="right" width="295">
+
+![nikasuschinskaya's GitHub Stats][github-stats-img]
+
+[github-stats-img]: https://nikasuschinskaya-readme-stats.vercel.app/api?username=nikasuschinskaya&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark
