@@ -45,5 +45,6 @@ But C# has remained a favorite programming language. </p>
 <a href="https://www.opengl.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" alt="opengl" width="40" height="40"/> </a> 
 <a href="https://threejs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="threejs" width="40" height="40"/> </a> 
 <a href="https://www.oracle.com/java/technologies/downloads/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://www.sqlite.org/index.html" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/> </a> 
 
 [github-stats-img]: https://cheesits456-readme-stats.vercel.app/api?username=nikasuschinskaya&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark
