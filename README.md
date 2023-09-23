@@ -24,7 +24,7 @@ But C# has remained a favorite programming language. </p>
 <img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=nikasuschinskaya&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="nikasuschinskaya's Top Languages" align="right" width="295">
 
 <!-- ![nikasuschinskaya's GitHub Stats][github-stats-img] -->
-![nikasuschinskaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikasuschinskaya&show_icons=true&include_all_commits=true&theme=github_dark)
+<!--![nikasuschinskaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikasuschinskaya&show_icons=true&include_all_commits=true&theme=github_dark)-->
 
 ## Tools
 
