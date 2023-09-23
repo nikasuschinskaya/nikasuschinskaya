@@ -1,4 +1,4 @@
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+# Hello there! 👋
 
 ## About Me
 <p align="justify">I'm Veronika. </p>
